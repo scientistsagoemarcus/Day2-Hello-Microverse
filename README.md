@@ -3,7 +3,7 @@
 # Hello Microverse
 
 > Description the project.
-> This PTOJECT is to text our previous knowledge
+> This project is to text our previous knowledge
 
 
 ## Built With
